@@ -1,8 +1,9 @@
 {
-  "name": "Yeoman Wordpress install",
+  "name": "Yeoman-Wordpress-install",
   "version": "1.0.0",
   "description": "Aliens Reclamebureau",
   "main": "Gulpfile.js",
+  "private": true,
   "scripts": {
     "test": "test"
   },
